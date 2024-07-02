@@ -1,0 +1,133 @@
+.timeline {
+    width: 80%;
+    max-width: 1200px;
+    margin: 50px auto;
+    position: relative;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #3498db;
+    transform: translateX(-50%);
+}
+
+.event {
+    position: relative;
+    width: 50%;
+    padding: 20px 40px;
+    box-sizing: border-box;
+}
+
+.event:nth-child(odd) {
+    left: 0;
+}
+
+.event:nth-child(even) {
+    left: 50%;
+}
+
+.event::before {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #3498db;
+    top: 20px;
+    transform: translateX(-50%);
+}
+
+.event:nth-child(odd)::before {
+    left: 100%;
+}
+
+.event:nth-child(even)::before {
+    left: 0;
+    transform: translateX(50%);
+}
+
+.event h1 {
+    margin: 0 0 10px;
+    color: #3498db;
+    font-size: 1.5em;
+}
+
+.event p {
+    margin: 0 0 10px;
+    color: #333;
+}
+
+.event img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border: 2px solid #3498db;
+    border-radius: 5px;
+}
+
+@media (max-width: 1020px) {
+    .timeline {
+        width: 90%; /* Ajuste para tabletas */
+        margin: 30px auto;
+    }
+
+    .timeline::before {
+        left: 50px; /* Ajuste para tabletas */
+    }
+
+    .event {
+        width: 45%; /* Ajuste para tabletas */
+        padding: 20px 30px; /* Ajuste para tabletas */
+    }
+
+    .event:nth-child(odd),
+    .event:nth-child(even) {
+        left: 0;
+    }
+
+    .event::before {
+        left: 30px; /* Ajuste para tabletas */
+    }
+
+    .event h1 {
+        font-size: 1.3em; /* Ajuste para tabletas */
+    }
+}
+
+@media (max-width: 375px) {
+    .timeline {
+        width: 95%;
+        margin: 20px auto;
+    }
+
+    .timeline::before {
+        left: 20px;
+    }
+
+    .event {
+        width: 100%;
+        padding: 20px 20px 20px 40px;
+    }
+
+    .event:nth-child(even),
+    .event:nth-child(odd) {
+        left: 0;
+    }
+
+    .event::before {
+        left: 20px;
+    }
+
+    .event h1 {
+        font-size: 1.2em;
+    }
+}
+

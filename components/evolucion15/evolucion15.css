@@ -1,0 +1,143 @@
+.todo-keneth {
+    margin: 1em;
+}
+
+.evolucion15-keneth span {
+    margin: 0.2em;
+}
+
+.evolucion15-keneth h2 {
+    margin-bottom: 0.3em;
+}
+
+.title-keneth {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.title-keneth p {
+    color: #0d71fc;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+.timeline-keneth {
+    margin: 3em auto;
+    max-width: 30em;
+}
+
+.checkpoint-keneth {
+    max-width: 30rem;
+    padding: 1rem 0;
+    position: relative;
+}
+
+.checkpointp-div-keneth {
+    border: 1px solid #888;
+    border-radius: 0.5em;
+    padding: 1rem;
+    transition: 1s;
+}
+
+.checkpoint-keneth p {
+    line-height: 20px;
+}
+
+.checkpoint-keneth::before {
+    content: '';
+    background: #888;
+    width: 2em;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: 1s;
+}
+
+.checkpoint-keneth div::before {
+    content: '';
+    background: #242222;
+    box-shadow: 0 0 0.3em #0d71fc;
+    width: 0.6em;
+    height: 0.6em;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    border-radius: 50%;
+}
+
+.checkpoint-keneth:nth-child(odd) {
+    border-left: 2px solid #888;
+    padding-left: 2em;
+    transform: translateX(12rem);
+}
+
+.checkpoint-keneth:nth-child(even) {
+    border-right: 2px solid #888;
+    padding-right: 2em;
+    transform: translateX(-12rem);
+}
+
+.checkpoint-keneth:nth-child(odd)::before {
+    left: 0;
+}
+
+.checkpoint-keneth:nth-child(even)::before {
+    right: 0;
+}
+
+.checkpoint-keneth:nth-child(odd) div::before {
+    left: -0.3em;
+}
+
+.checkpoint-keneth:nth-child(even) div::before {
+    right: -0.3em;
+}
+
+.informacion-keneth img {
+    opacity: 0;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+    transition: opacity 0.5s ease-in-out, visibility 0.5s ease-in-out, width 0.5s ease-in-out, height 0.5s ease-in-out;
+}
+
+.checkpointp-div-keneth:hover .informacion-keneth img {
+    opacity: 1;
+    visibility: visible;
+    width: 40%;
+    height: auto;
+}
+
+.checkpointp-div-keneth:hover {
+    background-color: #ffffe0;
+}
+
+@media screen and (max-width: 1150px) {
+    .timeline-keneth {
+        width: 90vw;
+        display: grid;
+    }
+
+    .timeline-keneth .checkpoint-keneth {
+        width: 100%;
+        transform: none;
+        padding-left: 0;
+        padding-right: 0;
+        border: none;
+    }
+
+    .timeline-keneth .checkpoint-keneth::before {
+        width: 4px;
+        height: 3em;
+        top: -2em;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .timeline-keneth .checkpoint-keneth div::before {
+        top: -2em;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}

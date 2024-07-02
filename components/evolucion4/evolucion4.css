@@ -1,0 +1,63 @@
+#evolucion4 {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+#evolucion4 h1 {
+    color: #dad0d0;
+    text-align: center;
+}
+
+.cuadritos {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    max-width: 800px; 
+    margin: 0 auto;
+    padding: 20px;
+    background-color: beige;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cuadritos h1 {
+    font-size: 1.5em;
+    margin: 0;
+    color: black; 
+    background-color: beige; 
+    padding: 10px; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center; 
+}
+
+.cuadritos div {
+    background-color: #050505; 
+    color: white; 
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 5px black;
+    transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease; 
+}
+
+.cuadritos div:hover {
+    transform: scale(1.05);
+    background-color: white; 
+    color: black;
+}
+
+.cuadritos img {
+    width: 100%; 
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+@media (max-width: 375px) {
+    .cuadritos {
+        max-width: 375px; 
+        padding: 10px; 
+    }
+}

@@ -1,0 +1,237 @@
+.pantalla_lglm {
+    max-width: 52rem;
+    display: grid;
+    grid-template-rows: 4rem 30rem;
+    justify-content: center;
+    margin: auto;
+}
+.large-boxgl {
+    width: 50rem;
+    border: 3px solid #007BFF;
+    margin-top: 1rem;   
+
+    display: grid;
+    grid-template-columns: 60% 1fr;
+    background-color: #ffffff;
+    border-radius: 1rem;
+}
+.infPrincipal_lglm{
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.Introduc_lglm {
+    background-color: #007BFF;
+    color: #fff;
+    width: 100%;
+    height: 5rem;
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    text-align: center;
+    border-top-right-radius: 0.8rem;
+    border-top-left-radius: 0.8rem;
+}
+.IntroOpc_lglm {
+    width: 100%;
+    height: 5rem;
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    text-align: center;
+}
+.large-boxgl {
+    background-color: aliceblue;
+}
+.large-boxgl p {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+.timeline_lglm {
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+    margin-top: 1rem;   
+}
+.circlegllm {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #007BFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+.circlegllm:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);    
+}
+.EvoInfo_gl{
+    padding: 2rem;
+}
+.EvoTitlegl {
+    font-family: "Spicy Rice", serif;
+    font-weight: 900;
+    font-size: 2.4rem;
+    color: #0056b3;
+
+}
+.EvoInfo_gl h3 {
+    color: #0056b3;
+}
+.btnYouTubegl {
+    margin-top: 0.3rem;
+    border-radius: 0.5rem;
+    width: 10rem;
+    height: 2.5rem;
+    background-color: #aaa;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+}
+.btnYouTubegl img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0.5rem;
+}
+.bigImggl {
+    width: 100%;
+    height: 96.4%;
+    border-top-right-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+}
+.bigImggl img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-right-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+}
+.bigImg2gl {
+    width: 100%;
+    height: 100%;
+    border-top-right-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+}
+.bigImg2gl img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-right-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+}
+.bigImg3gl {
+    width: 100%;
+    height: 98%;
+    border-top-right-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+}
+.bigImg3gl img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-right-radius: 0.8rem;
+    border-bottom-right-radius: 0.8rem;
+}
+
+@media (max-width: 375px) {
+    .pantalla_lglm {
+        max-width: 375px;
+        margin: auto;
+        display: grid;
+        grid-template-rows: 6rem 1fr;
+    }
+    .circlegllm:hover {
+        background-color: #0056b3;
+        transform: scale(1.1);    
+    }
+    .timeline_lglm {
+        width: 50%;
+        margin:auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .large-boxgl {
+        width: 30rem;
+        border: none;
+        border-radius: 0;
+    }
+    
+    .Introduc_lglm{
+        margin-top: 1rem;
+        width: 20.45rem;
+        height: auto;
+        padding: 1rem;
+        text-align: center;
+       border-radius: 1rem;
+    }
+    .IntroOpc_lglm {
+        margin-top: 1rem;
+        width: 20.45rem;
+        height: auto;
+        padding: 1rem;
+        text-align: center;
+       border-radius: 1rem;
+    }
+    
+    .circlegllm {
+        width: 40px;
+        height: 40px;
+    }
+    
+    .large-boxgl {
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 100%;
+    }
+
+    .EvoInfo_gl {
+        padding: 1rem;
+    }
+    
+    .EvoTitlegl {
+        font-size: 1.8rem;
+    }
+    
+    .btnYouTubegl {
+        width: 40%;
+        height: 3rem;
+    }
+    
+    .bigImggl img, .bigImg2gl img, .bigImg3gl img {
+        padding: 1%;
+        width: 94%;
+        height: 94%;
+        object-fit: cover;
+        border-radius: 0;
+    }
+}
+@media (max-width: 800px) {
+    .pantalla_lglm {
+        max-width: 800px;
+        display: grid;
+        grid-template-rows: 6rem 1fr;
+    }
+    .circlegllm:hover {
+        background-color: #0056b3;
+        transform: scale(1.1);    
+    }
+    .timeline_lglm {
+        width: 30rem;
+        margin: auto;
+        display: flex;
+        gap: 2rem;
+        align-items: center;
+    }
+    .large-boxgl {
+        margin-top: 1rem;
+        width: 40rem;
+        border: none;
+        border-radius: 0;
+    }
+}

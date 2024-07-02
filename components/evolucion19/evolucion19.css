@@ -1,0 +1,290 @@
+.seccion-sarazua {
+    width: 100%;
+    height: 830px;
+
+
+    background-image: url("https://c.wallhere.com/images/cb/23/ac4c38042e2394ecb8d8ffbed81c-1579551.png!d");
+}
+
+@media (max-width: 375px) {
+    .contenido-sarazua {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr ;
+    }
+    .seccion-sarazua {
+        background-image: url("https://c.wallhere.com/photos/a3/27/red_black_orange_science_fiction_tech_technology_cube_neon-2189693.jpg!d");
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 100px auto auto ;
+    }
+
+    .titulo1-sarazua {
+        width: 100%;
+        grid-column: 1/2;
+        grid-row: 1/2;
+    }
+
+    .info-sarazua {
+        grid-column: 1/2;
+        grid-row: 2/3;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .info-p-sarazua {
+        grid-column: 1/2;
+        grid-row: 3/4;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .info2-sarazua {
+        grid-column: 1/2;
+        grid-row: 2/3;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .menu-zarsu {
+        background-image: url("https://c.wallhere.com/photos/1f/48/circuit_boards_microchip_PCB_technology_hardware_resistor-2232256.jpg");
+    }
+}
+
+.titulo-sarazua {
+    width: 100%;
+    height: 100px;
+    margin: 0px auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.titulo1-sarazua {
+    width: 800px;
+    height: 75px;   
+    margin: auto;
+
+    color: white;
+    font-size: 45px;
+    font-weight: 700px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo-sarazua span {
+    color: rgb(0, 183, 255);
+}
+
+.btn-reg-sarazua {
+    width: 150px;
+    height: 50px;
+
+    background-color: white;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenido-sarazua {
+    /* width: 1450px; */
+    /* height: 600px; */
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row: 1fr;
+    padding: 70px 0px ;
+
+    justify-content: center;
+    align-items: center;
+}
+
+
+.info-sarazua {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info-sarazua img {
+    width: 300px;
+    height: 500px;
+    border: 15px solid white;
+    border-radius: 10px;
+}
+
+.info-p-sarazua {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    text-decoration: solid;
+}
+
+.info-p-sarazua h1 {
+    font-size: 30px;
+    font-weight: 600;
+    color: lightblue;
+}
+
+.info-p-sarazua p {
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.info-p-sarazua h2 {
+    color: white;
+}
+
+.info-p-sarazua span {
+    color: white;
+}
+
+.menu-zarsu{
+    width: 100%;
+    height: 160px;
+
+    background-image: url("https://i.pinimg.com/originals/a3/61/0e/a3610ef764e6f3d82b53f36a7a5b1200.png");
+    text-decoration: none;
+
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ev19_boton {
+    width: 250px;
+    height: 50px;
+
+    background-color: white;
+    text-decoration: none;
+    font-size: 27px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info2-sarazua {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info2-sarazua img {
+    width: 450px;
+    height: 500px;
+    border: 15px solid white;
+    border-radius: 10px;
+}
+
+.info-p2-sarazua p {
+    font-size: 20px;
+}
+
+/* 
+.boton1-sarazua a{
+    width: 250px;
+    height: 50px;
+
+    background-color: white;
+    text-decoration: none;
+    font-size: 27px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton2-sarazua a{
+    width: 150px;
+    height: 50px;
+
+    background-color: white;
+    text-decoration: none;
+    font-size: 27px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton3-sarazua a{
+    width: 150px;
+    height: 50px;
+
+    background-color: white;
+    text-decoration: none;
+    font-size: 27px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton4-sarazua a{
+    width: 150px;
+    height: 50px;
+
+    background-color: white;
+    text-decoration: none;
+    font-size: 27px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.boton5-sarazua a{
+    width: 150px;
+    height: 50px;
+
+    background-color: white;
+    text-decoration: none;
+    font-size: 27px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.activar {
+    display: flex;
+}

@@ -1,0 +1,44 @@
+.lineadeltiempo {
+    width: 375px;
+    margin: 20px auto;
+    position: relative;
+}
+
+.casilla {
+    background: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.casilla:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.contenidolineadeltiempo {
+    width: 100%;
+}
+
+.fecha {
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #000000;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+p {
+    margin: 10px 0;
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 8px;
+}

@@ -1,0 +1,885 @@
+.separador {
+    width: 100%;
+    height: 100%;
+    
+    border-radius: 16px;
+    background-image: url("https://c.wallhere.com/photos/dd/17/1920x1080_px_artwork_music_Notes-1820865.jpg!d");
+}
+
+.container {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    width: 100%;
+    height: 100%;
+    background-image: url('/mnt/data/image.png');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header845 {
+    grid-column: span 3;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.antiguedad, .renacimiento, .barroco, .clasicismo, .romanticismo, .sigloXXI {
+    font-size: 1.5em;
+}
+
+.antiguedad-boton {
+    display: none;
+}
+
+
+ .clasicismo-boton {
+    display: none;
+} 
+
+.renacimiento-boton {
+    display: none;
+}
+
+.romanticismo-boton {
+    display: none;
+}
+
+.barroco-boton {
+    display: none;
+}
+
+.sigloXXI-boton {
+    display: none;
+}
+
+.titulo55 {
+    width: 18rem;
+    border-radius: 10px;
+}
+    
+.titulo55:hover {
+    transition: 2s;
+    width: 20rem;
+    background-color: rgb(207, 207, 200);
+    color: black;
+}
+
+.activar-jeronimo {
+    display: grid;
+}
+
+.separador2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+    background-image: url("https://c.wallhere.com/photos/44/5b/music_vinyl-2291604.jpg!d");
+}
+
+.titulo1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem 0px;
+    color: white;
+    font-size: 2rem;
+}
+
+.cuadro123 {
+    width: 100%;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: 1fr;
+}
+
+.rectangulos1 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.rectangulos1 img {
+    width: 80%;
+    grid-column: 1/2;
+    grid-row: 1/2;
+    padding: 2rem 3rem;
+}
+
+.rectangulos2 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    text-align: center;
+}
+
+.rectangulos2 h1 {
+    font-size: 1.4rem;
+    color: rgb(198, 72, 72);
+}
+
+.rectangulos2 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+    color: rgb(197, 192, 192);
+}
+
+.rectangulos3 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 3/4;
+    text-align: center;
+}
+
+.rectangulos3 h1 {
+    font-size: 1.4rem;
+    color: rgb(198, 72, 72);
+}
+
+.rectangulos3 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+    color: rgb(212, 208, 208);
+}
+
+.separador3 {
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+    background-image: url("https://c.wallhere.com/photos/bd/17/2560x1508_px_monochrome_music_vinyl-1419839.jpg!d");
+}
+
+.titulo2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 5rem 0px;
+    font-size: 2rem;
+}
+
+.cuadro2 {
+    width: 100%;
+    height: 500px;
+
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: 1fr;
+}
+
+.rectangulos4 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    text-align: center;
+    padding: 0rem 3rem;
+}
+
+.rectangulos4 h1 {
+    font-size: 1.4rem;
+    color: gray;
+}
+
+.rectangulos4 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+    color: rgb(10, 79, 108);
+}
+
+.rectangulos4 img {
+    width: 80%;
+    padding: 1.6rem 0px;
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+
+.rectangulos5 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    text-align: center;
+}
+
+.rectangulos5 h1 {
+    font-size: 1.4rem;
+    color: gray;
+}
+
+.rectangulos5 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+    color: rgb(10, 79, 108);
+}
+
+.rectangulos5 img {
+    width: 80%;
+    padding: 3.6rem 0px;
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+
+.rectangulos6 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 3/4;
+    text-align: center;
+}
+
+.rectangulos6 h1 {
+    font-size: 1.4rem;
+    color: rgb(99, 97, 97);
+}
+
+.rectangulos6 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+    color: rgb(10, 79, 108);
+}
+
+.rectangulos6 img {
+    width: 80%;
+    padding: 3.5rem 0px;
+    grid-row: 1/2;
+    grid-column: 3/4;
+}
+
+.separador4 {
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+    background-image: url("https://c.wallhere.com/photos/e5/c2/abandoned_old_television_sets_radio_table_plates_dust_vintage-66596.jpg!d");
+}
+
+.titulo4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 5rem 0px;
+    font-size: 2rem;
+}
+
+.cuadro4 {
+    width: 100%;
+    height: 480px;
+
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: 1fr;
+}
+
+.rectangulos7 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    text-align: center;
+    padding: 0rem 3rem;
+}
+
+.rectangulos7 h1 {
+    font-size: 1.4rem;
+    color: rgb(95, 58, 32);
+}
+
+.rectangulos7 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+}
+
+.rectangulos7 img {
+    width: 80%;
+    padding: 1.8rem 0px;
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+
+.rectangulos8 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    text-align: center;
+}
+
+.rectangulos8 h1 {
+    font-size: 1.4rem;
+    color: rgb(95, 58, 32);
+}
+
+.rectangulos8 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+    color: rgb(102, 94, 94);
+}
+
+.rectangulos8 img {
+    width: 80%;
+    padding: 4.7rem 0px;
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+
+.rectangulos9 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 3/4;
+    text-align: center;
+}
+
+.rectangulos9 h1 {
+    font-size: 1.4rem;
+    color: rgb(106, 67, 37);
+}
+
+.rectangulos9 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+}
+
+.rectangulos9 img {
+    width: 80%;
+    padding: 1.9rem 0px;
+    grid-row: 1/2;
+    grid-column: 3/4;
+}
+
+.separador5 {
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+    background-image: url("https://c.wallhere.com/photos/d5/9d/sound_mixing_consoles_techno_consoles_nord_synthesizer-221504.jpg!d");
+}
+
+.titulo5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 5.5rem 0px;
+    font-size: 2rem;
+}
+
+.cuadro5 {
+    width: 100%;
+    height: 480px;
+
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 1fr;
+}
+
+.rectangulos10 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    text-align: center;
+    padding: 0rem 3rem;
+    color: white;
+}
+
+.rectangulos10 h1 {
+    font-size: 1.4rem;
+    color: orange;
+}
+
+.rectangulos10 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+}
+
+.rectangulos10 img {
+    width: 80%;
+    padding: 1.8rem 0px;
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+
+.rectangulos11 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    text-align: center;
+    color: white;
+}
+
+.rectangulos11 h1 {
+    font-size: 1.4rem;
+    color: rgb(255, 179, 37);
+}
+
+.rectangulos11 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.rectangulos11 img {
+    width: 80%;
+    padding: 4.7rem 0px;
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+
+.rectangulos12 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 3/4;
+    text-align: center;
+    color: white;
+}
+
+.rectangulos12 h1 {
+    font-size: 1.4rem;
+    color: orange;
+}
+
+.rectangulos12 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+}
+
+.rectangulos12 img {
+    width: 80%;
+    padding: 1.9rem 0px;
+    grid-row: 1/2;
+    grid-column: 3/4;
+}
+
+.rectangulos13 img {
+    width: 80%;
+    padding: 2.5rem 2rem;
+    grid-row: 1/2;
+    grid-column: 4/5;
+}
+
+
+.separador6 {
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+    background-image: url("https://c.wallhere.com/photos/7d/59/1920x1080_px_abstract_music-783622.jpg!d");
+}
+
+.titulo6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 5rem 0px;
+    font-size: 2rem;
+}
+
+.cuadro6 {
+    width: 100%;
+    height: 480px;
+
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-rows: 1fr;
+}
+
+.rectangulos14 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    text-align: center;
+    padding: 0rem 3rem;
+    color: white;
+}
+
+.rectangulos14 h1 {
+    font-size: 1.4rem;
+    color: black;
+}
+
+.rectangulos14 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+}
+
+.rectangulos14 img {
+    width: 80%;
+    padding: 3.3rem 0px;
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+
+.rectangulos15 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    text-align: center;
+    color: white;
+}
+
+.rectangulos15 h1 {
+    font-size: 1.4rem;
+    color: rgb(0, 0, 0);
+}
+
+.rectangulos15 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.rectangulos15 img {
+    width: 80%;
+    padding: 1.2rem 0px;
+    grid-row: 1/2;
+    grid-column: 2/3;
+}
+
+.rectangulos16 {
+    padding: 0rem 3rem;
+    grid-row: 1/2;
+    grid-column: 3/4;
+    text-align: center;
+    color: white;
+}
+
+.rectangulos16 h1 {
+    font-size: 1.4rem;
+    color: black;
+}
+
+.rectangulos16 li {
+    font-size: 1.3rem;
+    font-family: Arial, sans-serif;
+}
+
+.rectangulos16 img {
+    width: 80%;
+    padding: 5rem 0px;
+    grid-row: 1/2;
+    grid-column: 3/4;
+}
+
+.separador7 {
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+    background-image: url("https://c.wallhere.com/photos/1a/9f/1920x1200_px_Electric_entertainment_guitars_instuments_music_Musical_Strings-1721527.jpg!d");
+}
+
+.titulo7 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 3rem 0px;
+    font-size: 2rem;
+}
+
+.cuadro7 {
+    width: 100%;
+    height: 510px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 38% 38% 38%;
+}
+
+.h1 {
+    margin: 0px auto;
+    color: rgb(95, 34, 34);
+    font-size: 1.5rem; 
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
+
+.h2 {
+    margin: 1rem auto;
+    color: rgb(95, 34, 34);
+    font-size: 1.5rem; 
+    grid-column: 2/3;
+    grid-row: 3/4;
+}
+
+.h3 {
+    margin: 1.8rem auto;
+    color: gray; 
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.h4 {
+    color: rgb(117, 116, 116);
+    margin: 2.4rem auto; 
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
+
+.h5 {
+    margin: 2.2rem auto;
+    color: gray; 
+    grid-column: 3/4;
+    grid-row: 1/2;
+}
+
+.h6 {
+    padding: 3.3rem 3rem;
+    grid-row: 1/2;
+    grid-column: 1/2;
+    text-align: center;
+    color: white;
+}
+
+.h7 {
+    padding: 3.3rem 3rem;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    text-align: center;
+    color: white;
+}
+
+.h8 {
+    padding: 3.7rem 4rem;
+    grid-row: 1/2;
+    grid-column: 3/4;
+    text-align: center;
+    color: white;
+}
+
+.img1 {
+    width: 60%;
+    height: 70%;
+    grid-row: 2/3;
+    grid-column: 1/2;
+    margin: auto;
+}
+
+.img2 {
+    width: 60%;
+    height: 70%;
+    grid-row: 2/3;
+    grid-column: 2/3;
+    margin: auto;
+}
+
+.img3 {
+    width: 60%;
+    height: 70%;
+    grid-row: 2/3;
+    grid-column: 3/4;
+    margin: auto;
+}
+
+.h9 {
+    margin: 2.2rem auto;
+    color: gray;
+    grid-column: 1/2;
+    grid-row: 3/4;
+}
+
+.h10 {
+    padding: 3rem 4rem;
+    color: white; 
+    grid-column: 1/2;
+    grid-row: 3/4;
+    text-align: center;
+}
+
+.h11 {
+    margin: 3.3rem auto;
+    color: gray; 
+    grid-column: 2/3;
+    grid-row: 3/4;
+}
+
+.h12 {
+    padding: 4.3rem 3.5rem;
+    grid-row: 3/4;
+    grid-column: 2/3;
+    text-align: center;
+    color: white;
+}
+
+.h13 {
+    margin: 2.2rem auto;
+    color: gray;     
+    grid-column: 3/4;
+    grid-row: 3/4;
+}
+
+.h14 {
+    padding: 3.2rem 3.7rem;
+    grid-row: 3/4;
+    grid-column: 3/4;
+    text-align: center;
+    color: white;
+}
+
+
+/*ADAPTACIÓN PARA TELÉFONOS*/
+@media (max-width: 375px) {
+    .header845 {
+        font-size: 1.2em;
+    }
+
+    .titulo55 {
+        font-size: 1em;
+    }
+
+    .cuadro img, .cuadro2 img, .cuadro4 img, .cuadro5 img, .cuadro6 img, .cuadro7 img {
+        width: 100%;
+        height: auto;
+    }
+
+    .rectangulos2, .rectangulos8, .rectangulos11, .rectangulos16 {
+        padding: 0 5px;
+    }
+
+    .titulo1, .titulo2, .titulo4, .titulo5, .titulo6, .titulo7 {
+        font-size: 1.1em;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+
+
+/*ADAPTACIÓN PARA TABLETAS*/
+@media (max-width: 1024px) {
+    .header845 {
+        font-size: 1.2em;
+    }
+
+    .titulo {
+        font-size: 1em;
+    }
+
+    .cuadro img, .cuadro2 img, .cuadro4 img, .cuadro5 img, .cuadro6 img, .cuadro7 img {
+        width: 65%;
+        height: auto;
+    }
+
+    .rectangulos2, .rectangulos8, .rectangulos11, .rectangulos16 {
+        padding: 0 5px;
+    }
+
+    .titulo1, .titulo2, .titulo4, .titulo5, .titulo6, .titulo7 {
+        font-size: 1.1em;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
+
+/*ADAPTACIÓN PARA ESCRITORIO*/
+@media (min-width: 3066px){
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f3f3f3;
+    }
+
+    .separador {
+        width: 3066px; /* Ancho total deseado */
+        margin: 0 auto; /* Centra el contenido horizontalmente */
+    }
+
+    .separador {
+        width: 3066px;
+        height: 900px;
+    }
+
+    .separador2 {
+        width: 3066px;
+        height: 900px;
+    }
+
+    .separador3 {
+        width: 3066px;
+        height: 900px;
+    }
+
+    .separador4 {
+        width: 3066px;
+        height: 900px;
+    }
+
+    .separador5 {
+        width: 3066px;
+        height: 900px;
+    }
+
+    .separador6 {
+        width: 3066px;
+        height: 900px;
+    }
+
+    .separador7 {
+        width: 3066px;
+        height: 1010px;
+    }
+
+    .container {
+        flex-wrap: wrap;
+        gap: 152px;
+        display: flex;
+    }
+
+    .header845 {
+        font-size: 24px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .titulo55 {
+        font-size: 1.8rem;
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    .cuadro123, .cuadro2, .cuadro4, .cuadro5, .cuadro6, .cuadro7 {
+        gap: 12px;
+        margin-top: 20px;
+
+        display: grid;
+        grid-template-columns: 33.3% 33.3% 33.3%;
+        grid-template-rows: 1fr;
+    }
+
+    .rectangulos1, .rectangulos2, .rectangulos3, .rectangulos4, .rectangulos5,
+    .rectangulos6, .rectangulos7, .rectangulos8, .rectangulos9, .rectangulos10,
+    .rectangulos11, .rectangulos12, .rectangulos13, .rectangulos14, .rectangulos15,
+    .rectangulos16 {
+        margin: auto;
+    }
+
+    .rectangulos1 img, .rectangulos2 img, .rectangulos3 img,
+    .rectangulos4 img, .rectangulos5 img, .rectangulos6 img,
+    .rectangulos7 img, .rectangulos8 img, .rectangulos9 img,
+    .rectangulos10 img, .rectangulos11 img, .rectangulos12 img,
+    .rectangulos13 img, .rectangulos14 img, .rectangulos15 img,
+    .rectangulos16 img {
+        max-width: 40%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    .rectangulos13 img {
+        padding: 0px 10px;
+        margin: -2rem  auto;
+        display: none;
+    }
+
+    .separador2, .separador3, .separador4, .separador5, .separador6, .separador7 {
+        width: 3066px; /* Ancho total deseado */
+        margin: 0 auto; /* Centra el contenido horizontalmente */
+        padding: 20px;
+    }
+
+    .activar-jeronimo {
+        display: block; /* Muestra el contenido extendido cuando se activa */
+    }
+
+    .titulo1, .titulo2, .titulo4, .titulo5, .titulo6, .titulo7 {
+        padding: 35px 0px;
+    }
+}

@@ -1,0 +1,285 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    .SecTortugas{
+        width: 100%;
+        background-image: url(https://img.freepik.com/vector-premium/paisaje-mar-al-atardecer_1639-10620.jpg);
+        background-size: cover;
+    }
+    
+    .TitEvolucionS3{
+        text-align: center;
+        padding-top: 2rem;
+        
+        font-family: Comic Sans MS; 
+        font-size: 2.5rem; 
+        color: #EBD758; 
+        text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 
+    }
+    .numTortS3{
+        background-color: #fcea78;
+        padding: 0.5rem 0.9rem;
+        border-radius: 5rem;
+        border: 2px solid #414D68;
+        font-size: 1rem;
+        font-family: Comic Sans MS;
+        font-weight: 900;
+        color: #414D68;
+    }
+    .notaTortS3{
+        margin-top: 1rem;
+        text-align: center;
+        color: #132245;
+        font-size: 1.5rem;
+    }
+    .titTortuS3{
+        margin-top: 1.5rem;
+        font-size: 1.2rem;
+        font-weight: bold;
+        font-family: 'GosmickSans', sans-serif;
+                                                
+        color: #414D68;
+    }
+    .pTortuS3{
+        margin-top: 0.9rem;
+        font-family: Comic Sans MS;
+        text-align: justify;
+        font-size: 0.9rem;
+        line-height: 1.3rem;
+    }
+    .parTexAba{
+        margin-bottom: 1.5rem;
+    }
+    
+    .conteTortugas{   
+        margin-top: 3rem;
+        min-height: 100vh;
+        padding: 2.5rem;
+    
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        grid-template-rows: 10rem 10rem;
+        row-gap: 10rem;
+    }
+    .papoTort{
+        grid-row: 1/2;
+        grid-column: 1/2;
+    }
+    .odontoTort{
+        grid-row: 2/3;
+        grid-column: 2/3;
+    }
+    .proganoTort{
+        grid-row: 1/2;
+        grid-column: 3/4;
+    }
+    .testuTort{
+        grid-row: 2/3;
+        grid-column: 4/5;
+    }
+    
+    .divTortuga{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    
+        padding: 1rem;
+    }
+    
+    .imgT{
+        max-width: 115%;
+        border-radius: 0;
+        box-shadow: none;
+    }
+    
+    .imgT:hover{
+        cursor: pointer;
+    }
+    
+    .contenTortS3{
+        background-color: white;
+        width: 20rem;
+        display: none;
+        border-radius: 2rem;
+        padding: 0.7rem; 
+        font-size: 0.8rem;
+    }
+    
+    .divTortuga:hover .contenTortS3{
+        transition: 1.5s;
+        display: block;
+        position: absolute;
+        margin-top: 9rem;
+    }
+    /***************************************************/
+    
+    .divTortuga2:hover .contenTortS3{
+        transition: 1.5s;
+        display: block;
+        position: absolute;
+        bottom: 7rem;   
+    }
+    
+    .contenTortS3{
+        width: 20%;
+    }
+    
+    .divTortuga2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 1rem;
+    }
+    
+    .divTortuga3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 1rem;
+    }
+    .divTortuga3:hover .contenTortS3{
+        transition: 1.5s;
+        display: block;
+        position: absolute;
+        bottom: 7rem;   
+    }
+
+@media only screen and  (max-width: 1024px) {
+    .TitEvolucionS3{
+        font-size: 4.5rem; 
+    }
+    .notaTortS3{
+        padding: 2rem;
+        margin-top: 1.5rem;
+        font-size: 3rem;
+        background-color: #eba458b4;
+    }
+    .numTortS3{
+        padding: 0.8rem 1.5rem;
+        font-size: 2rem;
+    }
+    .titTortuS3{
+        font-size: 2.5rem;
+    }
+    .pTortuS3{
+        margin-bottom: 1.5rem;
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+    
+    .conteTortugas{   
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: repeat(4, auto);
+        row-gap: 6rem;
+    }
+    .papoTort{
+        grid-row: 1/2;
+        grid-column: 1/2;
+    }
+    .odontoTort{
+        grid-row: 2/3;
+        grid-column: 1/2;
+    }
+    .proganoTort{
+        grid-row: 3/4;
+        grid-column: 1/2;
+    }
+    .testuTort{
+        grid-row: 4/5;
+        grid-column: 1/2;
+    }
+
+    .divTortuga:hover .contenTortS3{
+        margin-top: -20rem;
+        background-color: #fcea78c7;
+    }
+    .divTortuga2:hover .contenTortS3{
+        background-color: #fcea78c7;
+        bottom: -20rem;
+    }
+    .divTortuga3:hover .contenTortS3{
+        background-color: #fcea78c7;
+        bottom: -84rem;   
+    }
+
+    .contenTortS3{
+        width: 75%;
+        padding: 2rem;
+    }
+    .imgT{
+        max-width: 45rem;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .TitEvolucionS3{
+        font-size: 4.5rem; 
+    }
+    .notaTortS3{
+        font-size: 2.4rem;
+    }
+    .numTortS3{
+        padding: 1rem 1.7rem;
+        font-size: 1.9rem;
+    }
+    .titTortuS3{
+        margin-top: 2rem;
+        font-size: 2.5rem;
+    }
+    .pTortuS3{
+        margin-top: 1.5rem;
+        font-size: 1.7rem;
+        line-height: 2.2rem;
+    }
+    
+    .imgT{
+        max-width: 35rem;
+    }
+    .imgT:hover{
+        width: 35rem;
+    }
+
+    .conteTortugas{   
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: repeat(4, auto);
+        row-gap: 6rem;
+    }
+    .contenTortS3{
+        width: 36rem;
+        padding: 1.8rem;
+    }
+    .papoTort{
+        grid-row: 1/2;
+        grid-column: 1/2;
+    }
+    .odontoTort{
+        grid-row: 2/3;
+        grid-column: 1/2;
+    
+    }
+    .proganoTort{
+        grid-row: 3/4;
+        grid-column: 1/2;
+    }
+    .testuTort{
+        grid-row: 4/5;
+        grid-column: 1/2;
+    }
+
+    .divTortuga:hover .contenTortS3{
+        margin-top: -30rem;
+    } 
+    .divTortuga2:hover .contenTortS3{
+        bottom: -28rem;
+    }
+    .divTortuga3:hover .contenTortS3{
+        bottom: -85rem;   
+    }
+}
