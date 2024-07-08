@@ -456,61 +456,61 @@ section1.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>La salida de la fábrica Lumière</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NJoKo05iYORMTQmO4fn9fgho3eMUiIYUVA&s" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
                     <h1>El regador regado</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Jt15ShgqEYU1yACjrfS4u2f5QXKpsQctpA&s" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
                     <h1>Llegada de un coche de bomberos</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://www.hibridosyelectricos.com/uploads/s1/33/82/16/2019112718045256428.jpeg" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
                     <h1>El baño del bebé</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Le_Repas_de_b%C3%A9b%C3%A9_%281895%29.jpg/300px-Le_Repas_de_b%C3%A9b%C3%A9_%281895%29.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
                     <h1>El desayuno del bebé    </h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://cineblog.blogia.com/upload/20060912112437-desayuno-bebe3.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
                     <h1>Demolición de un muro</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/La_D%C3%A9molition_d%27un_mur.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>La pescadería</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55UZzBT8vYwXQSe6Iezd6ZT647U7MW_RwQw&s" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>Salida de los obreros de la fábrica</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://www.izquierdadiario.es/IMG/jpg/lum3.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>La batalla de las nieves</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://i.ytimg.com/vi/pVrDw253Wnk/hqdefault.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>Partida de cartas</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/M%C3%A9li%C3%A8s%2C_Partie_de_cartes_%28Star_Film_1%2C_1896%29.jpg/210px-M%C3%A9li%C3%A8s%2C_Partie_de_cartes_%28Star_Film_1%2C_1896%29.jpg" alt=""></div>
                 </div>
             </div>
         </div>
@@ -557,61 +557,61 @@ section2.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>El cantante de jazz</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://es.web.img3.acsta.net/pictures/14/03/24/10/12/257562.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
-                    <h1>SEl acorazado Potemkin</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <h1>El acorazado Potemkin</h1>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIUiOqLiDqZfgvBXzmd3pf2wpR2stBIWp_A&s" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
-                    <h1>uces de la ciudad</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <h1>luces de la ciudad</h1>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPqVeqz1rISzfZ8NM88Ei2NaWIT73VEqKJyw&s" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
                     <h1>Metrópolis</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://www.ecartelera.com/carteles/300/336/001_m.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
                     <h1>El gabinete del doctor Caligari</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lq34p7ff2n1AkhU8CHkuX5uNnx1tl3XgFA&s" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
                     <h1>El maquinista de La General</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-SUr8hj-GQ080dG70Ud6oe5uaT8TRjUfYg&s" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>Napoleón</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMH3EwMc8o-4jkyA4zD8G5RZJYqLkXmUaMGg&s" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>Nosferatu, una sinfonía del horror</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5HOSHeXUjzGt8CLWroqBWCelZegwBzdDhA&s" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>Amanecer</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3WRA5ZhJRmk6rPiuoukq3rWJJ_bKm2_YR6Q&s" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>El chico</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajVC66u5fieFK_LMhXz7gvZtCIj-H04ztdw&s" alt=""></div>
                 </div>
             </div>
         </div>
@@ -658,61 +658,61 @@ section3.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>El mago de Oz</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://es.web.img2.acsta.net/pictures/14/04/02/11/44/157777.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
                     <h1>Lo que el viento se llevó</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <div class="img-peli"><img src="https://www.ecartelera.com/carteles/4600/4654/002_m.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
                     <h1>Blanca Nieves y los siete enanitos</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://elordenmundial.com/wp-content/uploads/2021/12/Se-estrena-Blancanieves-y-los-siete-enanitos-el-primer-largometraje-animado-en-color.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
-                    <h1>AEl ladrón de Bagdad</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <h1>El ladrón de Bagdad</h1>
+                    <div class="img-peli"><img src="https://pics.filmaffinity.com/El_ladraon_de_Bagdad-728617270-large.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
                     <h1>Robin de los bosques</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://es.web.img3.acsta.net/pictures/14/03/20/12/48/188051.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
                     <h1>La diligencia</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://ericmacho.com/wp-content/uploads/2013/12/la-diligencia-cartel.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>La Cenicienta</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Offterdinger_Aschenbrodel_%281%29.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>Bambi</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOTWOqYug3Z99dSRjLBivHUt8gbfZRd7w2Lg&s" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>Gone with the Wind</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>La bella durmiente</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://d34gk8hlg92cbs.cloudfront.net/916/2.jpeg" alt=""></div>
                 </div>
             </div>
         </div>
@@ -759,61 +759,61 @@ section4.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>Casablanca</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
                     <h1>Lo que el viento se llevó</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <div class="img-peli"><img src="https://www.ecartelera.com/carteles/4600/4654/002_m.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
                     <h1>Ciudadano Kane</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://es.web.img3.acsta.net/pictures/14/02/13/13/45/093063.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
                     <h1>Rebeca</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLv9SG608dfyeONfmnmQkMleARtPXY4zGt8A&s" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
                     <h1>Sospecha</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://es.web.img3.acsta.net/pictures/14/03/06/13/16/108799.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
-                    <h1>El halcón maltés"</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <h1>El halcón maltés</h1>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSRFJH0aXaEY0rtB9MVv666oPOPlwhCg2yOQ&s" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>Luz que agoniza</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://pics.filmaffinity.com/Luz_que_agoniza-671234341-large.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>Laura</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://pics.filmaffinity.com/Laura-654380969-large.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>El cuarto mandamiento</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpRJMxscG4vRyRu0GSWOf_hdn3v78ousr8g&s" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>Rebecca de York</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoY6aQsndREUndis6SPxk_IRnDx9Lj7_c9mg&s" alt=""></div>
                 </div>
             </div>
         </div>
@@ -860,61 +860,61 @@ section5.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>Psicosis</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1m79w71tNIib4xrOHyPjwZM06NNEuLkXEw&s" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
                     <h1>Los pájaros</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtKPx29wqgYkMDLO_ieyFlLGebc_L8FHGhyA&s" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
                     <h1>La maldición de Frankenstein</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIz2WXdVUFXbj3azYhIuB4Q8qpyGeuu-lwA&s" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
-                    <h1>ALa maldición de la momia</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <h1>La maldición de la momia</h1>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjOdETyhzPBwE-0ucr_4bhmoMEzSUFW6syJg&s" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
                     <h1>Carnival of Souls</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://waxworkrecords.com/cdn/shop/files/Carnival-of-Souls_Cover_1800x1800.jpg?v=1690557364" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
                     <h1>El último hombre sobre la Tierra</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://pics.filmaffinity.com/El_aultimo_hombre_sobre_la_Tierra_Soy_leyenda-259152033-large.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>Los ojos sin rostro</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HbdvA9G67XzRDhaNsc7WHZMeNkna39uHXQ&s" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>El castillo de los monstruos</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://upload.wikimedia.org/wikipedia/en/1/1f/El-castillo-de-los-monstruos-mexican-movie-poster-md.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>El fantasma del paraíso</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEpr9ETQYhyrHTfl-0tJOKBrrfYVzVJFk7w&s" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>Repulsión</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://elgabinetedeldoctormabuse.com/wp-content/uploads/2014/07/repulsion.jpg" alt=""></div>
                 </div>
             </div>
         </div>
@@ -961,61 +961,61 @@ section6.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>Star Wars</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2020/12/star-wars-scaled.jpg?fit=2560%2C1440&quality=50&strip=all&ssl=1" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
                     <h1>Encuentros cercanos del tercer tipo</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <div class="img-peli"><img src="https://image.tmdb.org/t/p/w500/btE3LrMhuFa8sfPGxHRC4hGyEjr.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
                     <h1>Superman</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://resizer.glanacion.com/resizer/v2/asi-se-veria-superman-en-la-vida-real-segun-la-SS2YWWIXDVEPPIPZDHJII7NWTM.PNG?auth=ba47cfa4417daa14555b3e27c76bd60d60c3123c13c3e02b8fd2abb742d81fef&width=880&height=586&quality=70&smart=true" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
                     <h1>Tiburón</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://www.ecartelera.com/carteles/4500/4583/001_m.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
-                    <h1>TApocalypse Now</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <h1>Apocalypse Now</h1>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGRcgRhYIC5H7nvEFFI8Y8zFU12KMoRSpATg&s" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
                     <h1>Rocky</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://hips.hearstapps.com/hmg-prod/images/rocky-wallpaper-67-images-1637320007.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>La guerra de las galaxias: El Imperio contraataca</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://images.justwatch.com/poster/179261213/s718/la-guerra-de-las-galaxias-episodio-v-el-imperio-contraataca.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>Alien: El octavo pasajero</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://i.pinimg.com/736x/f4/62/13/f462133e0f471730af9dbdd1a024a7cb.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>Grease</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>King Kong</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BYWNlNjlmYjktNjhiNy00YTQzLWEzYTUtYzc0MDdjYTlmNzUyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg" alt=""></div>
                 </div>
             </div>
         </div>
@@ -1062,61 +1062,61 @@ section7.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>Jurassic Park</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2CfrEfBzzxh289JwHNPYD8O8cfS3aUQCGuw&s" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
                     <h1>Terminator 2: Judgment Day</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <div class="img-peli"><img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13308_p_v8_ag.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
                     <h1>The Abyss</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://play-lh.googleusercontent.com/p4tW0vuefnhNYrdBNA2oIidVTUoDhfu31Xwd-KKU9WiZqnegCgsPTWR04jwp_4JQLqz2" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
                     <h1>Toy Story</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
                     <h1>Forrest Gump</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZo3UNQybCXNtF7UhXk0yuI_tpLxUVawmsw&s" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
                     <h1>Independence Day</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>The Matrix</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JpAa61BgkNomeBtnOV74IKWanzABJ7Byug&s" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>Star Wars: Episode I - The Phantom Menace</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>Titanic</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://play-lh.googleusercontent.com/560-H8NVZRHk00g3RltRun4IGB-Ndl0I0iKy33D7EQ0cRRwH78-c46s90lZ1ho_F1so=w240-h480-rw" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>Men in Black</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://i.scdn.co/image/ab67616d0000b273b4666dbb68a353b90b9f1ac7" alt=""></div>
                 </div>
             </div>
         </div>
@@ -1163,61 +1163,61 @@ section8.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>Iron Man</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
                     <h1>The Incredible Hulk</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
                     <h1>Iron Man 2</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://i.ebayimg.com/images/g/rxYAAMXQUY1Q9tLb/s-l640.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
                     <h1>Thor</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
                     <h1>Captain America: The First Avenger</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
                     <h1>X-Men: Primera generación</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItp9T8BDAczDCfue-um8-d-eIRQ-0SejK8w&s" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>The Avengers</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>The Amazing Spider-Man</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>The Wolverine</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1wsrnDgo3m30qBiJRUz_yRFqnQcFJxK-3g&s" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>Thor: The Dark World</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9rlNLLjlnyZob6nAKZvq3oRuddpEpV60Yw&s" alt=""></div>
                 </div>
             </div>
         </div>
@@ -1264,61 +1264,61 @@ section9.addEventListener("click",()=>{
             <div class="peli">
                 <div class="cont-peli">
                     <h1>Avatar</h1>
-                    <div class="img-peli"><img src="https://www.clarin.com/img/2023/06/07/FksjMl0e1_1200x0__1.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdpzg8SQCjHVGORRl8lEH6j_OueD-3M3H-A&s" alt=""></div>
                 </div>
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
-                    <h1>SUp</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5BNrXxisXDdBTRwphHgmGjbSQzXOGZYp-w&s" alt=""></div>
+                    <h1>Up</h1>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rI2gRu_4tSs99KdNjfDgHK1MUIxe4iE2xg&s" alt=""></div>
                 </div>
             </div>
             <div class="peli3">
                 <div class="cont-peli">
                     <h1>Ice Age: Dawn of the Dinosaurs</h1>
-                    <div class="img-peli"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkOJHfSL-E_zKMG8BKD-RRLxNJN5iId8SZ1Q&s" alt=""></div>
                 </div>
             </div>
             <div class="peli4">
                 <div class="cont-peli2">
                     <h1>Coraline</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpN3j0zXMO2MnT8bpPez1s_WI9VMQcUSIxA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_bEriJuLtCeRYJWFVAIXbXP8NVyCpsbO2g&s" alt=""></div>
                 </div>
             </div>
             <div class="peli5">
                 <div class="cont-peli">
                     <h1>Monsters vs. Aliens</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD2G8mxPpg3mbnol2LpRw_RrtBT3V-O1-vw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://play-lh.googleusercontent.com/uhI8_LdtPOzkiuUWuRruYJGVWvqy9OXehfXbujRAveSSuKFJ2HOVePrUFGs0_urxKG0" alt=""></div>
                 </div>
             </div>
             <div class="peli6">
                 <div class="cont-peli2">
                     <h1>A Christmas Carol</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRReZH8vr0cwaPw3N_I7qxw_6TzVjpu2G2gGw&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44esim8B1_LWVFzMEFPCgky6uOe25KPsEUA&s" alt=""></div>
                 </div>
             </div>
             <div class="peli7">
                 <div class="cont-peli">
                     <h1>Final Destination 4</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrH57ylervYjxufYty8F4fsDZlEKA5kRRvA&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDhUxaRIWcm-vBUZtLemOKLPTU8e45TULKOA&s" alt=""></div>
                 </div>
             </div>
             <div class="peli8">
                 <div class="cont-peli2">
                     <h1>G-Force</h1>
-                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVXi39YnXZFVddDi_l1b-012JZni7bxOp_Q&s" alt=""></div>
+                    <div class="img-peli"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIC3mNQu4qqZUIIJUbNoAsFVJCPYxGxqHYQ&s" alt=""></div>
                 </div>
             </div>
             <div class="peli9">
                 <div class="cont-peli">
                     <h1>Cloudy with a Chance of Meatballs</h1>
-                    <div class="img-peli"><img src="https://www.cafedelescritor.com/wp-content/uploads/hotel-el-resplandor-pasillo.jpg" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BMTg0MjAwNDI5MV5BMl5BanBnXkFtZTcwODkyMzg2Mg@@._V1_FMjpg_UX1000_.jpg" alt=""></div>
                 </div>
             </div>
             <div class="peli10">
                 <div class="cont-peli2">
                     <h1>My Bloody Valentine</h1>
-                    <div class="img-peli"><img src="https://i0.wp.com/bloguionistas.com/wp-content/uploads/2020/04/Captura-de-pantalla-2021-01-09-a-las-21.12.29.png?fit=419%2C241&ssl=1" alt=""></div>
+                    <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BYWYxODU1ZDItYzg1Ny00OGE5LTkzNmUtZWY0MjhmODE2NGJjXkEyXkFqcGdeQXVyNjQzOTQyODA@._V1_FMjpg_UX1000_.jpg" alt=""></div>
                 </div>
             </div>
         </div>

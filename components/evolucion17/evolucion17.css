@@ -13,9 +13,8 @@
 @media (max-width:375px){
 
     .div-evolucion17{
-        max-width: 100%;
         margin: 0;
-        background-image: url("https://c.wallhere.com/photos/e4/76/AI_art_vertical_portrait_display_colorful_illustration_Moon_planet_galaxy-2226876.jpg!d");
+        background-image: url("https://c.wallhere.com/photos/ac/be/nebula_space_stars_James_Webb_Space_Telescope_Pillars_of_Creation_NGC_6611_Eagle_Nebula_galaxy-2187625.jpg!d");
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr ;
@@ -26,7 +25,14 @@
 @media (min-width:3066px){
     .div-evolucion17{
         min-width: 100%;
-        margin: 0;
+
+    }
+}
+
+@media (min-width:1630px){
+    .div-evolucion17{
+        min-width: 100%;
+        background-image: url("https://c.wallhere.com/photos/36/04/ultrawide_space_galaxy_stars-2165805.jpg!d");
     }
 }
 
@@ -172,9 +178,16 @@
 
 @media (min-width:3066px){
     .bloque2{
-        min-width: 100%;
-        justify-self: center;
+        width: 55rem;
+        justify-self: start;
+    }
+}
+
+@media (min-width:1630px){
+    .bloque2{
+        width: 55rem;
         align-self: center;
+        justify-self: end;
     }
 }
 
@@ -414,7 +427,7 @@
 .bloque-contenido3{
     width: 350px;
     height: 380px;
-    margin-top: 240px;
+    margin-top: 200px;
 
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -688,7 +701,7 @@
     width: 100%;
     height: 100px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     gap: 10px;
 }
 
