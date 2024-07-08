@@ -1168,7 +1168,7 @@ section8.addEventListener("click",()=>{
             </div>
             <div class="peli2">
                 <div class="cont-peli2">
-                    <h1>The Incredible Hulk</h1>
+                    <h1>El incleible Hulk</h1>
                     <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg" alt=""></div>
                 </div>
             </div>
@@ -1198,7 +1198,7 @@ section8.addEventListener("click",()=>{
             </div>
             <div class="peli7">
                 <div class="cont-peli">
-                    <h1>The Avengers</h1>
+                    <h1>Los vengadores</h1>
                     <div class="img-peli"><img src="https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" alt=""></div>
                 </div>
             </div>
