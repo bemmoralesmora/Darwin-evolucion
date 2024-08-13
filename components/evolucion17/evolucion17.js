@@ -13,7 +13,7 @@ DOM_evolucion17.innerHTML = `
         <div class="titu2-17">E V O L U C I O N</div>
 
         <div>
-            <h1 class="titulo-17">PRESENTS <span>WORLD OF CINEMA</span></h1>
+            <h1 class="titulo-17">PRESENTS <span>MUNDO DEL CINE</span></h1>
             <p class="parrafo">El cine comenzó con los hermanos Lumière, quienes realizaron la primera proyección pública, marcando su nacimiento como entretenimiento. El cine sonoro inició con "El cantante de jazz", incorporando diálogos sincronizados y revolucionando la industria. La llegada del Technicolor permitió películas en color como "Lo que el viento se llevó" y "El mago de Oz"."Citizen Kane" de Orson Welles innovó en narrativa y técnicas cinematográficas, influyendo profundamente en el cine posterior. Alfred Hitchcock revolucionó el terror con "Psicosis", estableciendo nuevos estándares para el suspense y el terror psicológico.</p>
             <p class="parrafo2">"Star Wars" de George Lucas redefinió el cine de ciencia ficción y los efectos especiales, marcando el inicio de las superproducciones. "Jurassic Park" de Steven Spielberg utilizó CGI para crear dinosaurios realistas, marcando un hito en tecnología digital. "Iron Man" inició el Universo Cinematográfico de Marvel (MCU), popularizando el concepto de un universo compartido. "Avatar" de James Cameron revolucionó el cine 3D con avanzadas tecnologías de captura de movimiento y efectos visuales.</p>
             </div>
