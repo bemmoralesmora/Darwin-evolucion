@@ -1,12 +1,13 @@
 .separador {
     width: 100%;
     height: 100%;
+    margin: auto;
     
     border-radius: 16px;
     background-image: url("https://c.wallhere.com/photos/dd/17/1920x1080_px_artwork_music_Notes-1820865.jpg!d");
 }
 
-.container {
+.container88 {
     display: grid;
     grid-template-rows: repeat(3, 1fr);
     grid-template-columns: repeat(3, 1fr);
@@ -21,7 +22,7 @@
     font-family: Arial, sans-serif;
 }
 
-.container div {
+.container88 div {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,6 +33,9 @@
     font-size: 2em;
     font-weight: bold;
     margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .antiguedad, .renacimiento, .barroco, .clasicismo, .romanticismo, .sigloXXI {
@@ -64,6 +68,9 @@
 }
 
 .titulo55 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 18rem;
     border-radius: 10px;
 }
@@ -87,9 +94,6 @@
 }
 
 .titulo1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     padding: 5rem 0px;
     color: white;
     font-size: 2rem;
@@ -293,9 +297,9 @@
     font-family: Arial, sans-serif;
 }
 
-.rectangulos7 img {
-    width: 80%;
-    padding: 1.8rem 0px;
+.fotoman {
+    width: 60%;
+    padding: 0.8rem 0px;
     grid-row: 1/2;
     grid-column: 1/2;
 }
@@ -318,8 +322,8 @@
     color: rgb(102, 94, 94);
 }
 
-.rectangulos8 img {
-    width: 80%;
+.fotoman {
+    width: 60%;
     padding: 4.7rem 0px;
     grid-row: 1/2;
     grid-column: 2/3;
@@ -342,9 +346,9 @@
     font-family: Arial, sans-serif;
 }
 
-.rectangulos9 img {
-    width: 80%;
-    padding: 1.9rem 0px;
+.fotoman {
+    width: 60%;
+    padding: 0.8rem 0px;
     grid-row: 1/2;
     grid-column: 3/4;
 }
@@ -506,6 +510,7 @@
     padding: 3.3rem 0px;
     grid-row: 1/2;
     grid-column: 1/2;
+    border-radius: 16px;
 }
 
 .rectangulos15 {
@@ -528,10 +533,11 @@
 }
 
 .rectangulos15 img {
-    width: 80%;
-    padding: 1.2rem 0px;
+    width: 60%;
+    padding: 0.7rem 0px;
     grid-row: 1/2;
     grid-column: 2/3;
+    border-radius: 16px;
 }
 
 .rectangulos16 {
@@ -557,6 +563,7 @@
     padding: 5rem 0px;
     grid-row: 1/2;
     grid-column: 3/4;
+    border-radius: 16px;
 }
 
 .separador7 {
@@ -593,7 +600,7 @@
 }
 
 .h2 {
-    margin: 1rem auto;
+    margin: 0.6rem auto;
     color: rgb(95, 34, 34);
     font-size: 1.5rem; 
     grid-column: 2/3;
@@ -651,6 +658,7 @@
     grid-row: 2/3;
     grid-column: 1/2;
     margin: auto;
+    border-radius: 16px;
 }
 
 .img2 {
@@ -659,6 +667,7 @@
     grid-row: 2/3;
     grid-column: 2/3;
     margin: auto;
+    border-radius: 16px;
 }
 
 .img3 {
@@ -667,10 +676,11 @@
     grid-row: 2/3;
     grid-column: 3/4;
     margin: auto;
+    border-radius: 16px;
 }
 
 .h9 {
-    margin: 2.2rem auto;
+    margin: 1.5rem auto;
     color: gray;
     grid-column: 1/2;
     grid-row: 3/4;
@@ -685,14 +695,14 @@
 }
 
 .h11 {
-    margin: 3.3rem auto;
+    margin: 2.5rem auto;
     color: gray; 
     grid-column: 2/3;
     grid-row: 3/4;
 }
 
 .h12 {
-    padding: 4.3rem 3.5rem;
+    padding: 3.8rem 3.5rem;
     grid-row: 3/4;
     grid-column: 2/3;
     text-align: center;
@@ -700,14 +710,14 @@
 }
 
 .h13 {
-    margin: 2.2rem auto;
+    margin: 1rem auto;
     color: gray;     
     grid-column: 3/4;
     grid-row: 3/4;
 }
 
 .h14 {
-    padding: 3.2rem 3.7rem;
+    padding: 2.8rem 3.7rem;
     grid-row: 3/4;
     grid-column: 3/4;
     text-align: center;
@@ -817,7 +827,7 @@
         height: 1010px;
     }
 
-    .container {
+    .container55 {
         flex-wrap: wrap;
         gap: 152px;
         display: flex;
@@ -882,4 +892,4 @@
     .titulo1, .titulo2, .titulo4, .titulo5, .titulo6, .titulo7 {
         padding: 35px 0px;
     }
-}
+} 

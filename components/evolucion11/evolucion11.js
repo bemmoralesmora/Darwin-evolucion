@@ -1,7 +1,7 @@
 let DOM_evolucion11 = document.querySelector("#evolucion11");
 DOM_evolucion11.innerHTML = `
     <section class="separador">
-        <div class="container">
+        <div class="container88">
             <div class="header845">🎶 Evolución de la Música 🎶</div>
             <div class="antiguedad">
                 <h1 class="titulo55">🪈Antigüedad🪈</h1>
@@ -97,20 +97,20 @@ DOM_evolucion11.innerHTML = `
                 <div class="cuadro4">
                     <div class="rectangulos7">
                         <h1>Simplicidad y Equilibrio</h1>
-                        <img src="https://www.escapemusical.com/wp-content/uploads/2023/09/una_breve_historia_de_la_musica_clasicismo_haydn.webp" alt="">
-                        <img src="https://h5p.org/sites/default/files/h5p/content/416657/images/file-5c4856e684c74.jpg" alt="">
+                        <img class="fotoman" src="https://www.escapemusical.com/wp-content/uploads/2023/09/una_breve_historia_de_la_musica_clasicismo_haydn.webp" alt="">
+                        <img class="fotoman" src="https://h5p.org/sites/default/files/h5p/content/416657/images/file-5c4856e684c74.jpg" alt="">
                     </div>
                     <div class="rectangulos8">
                         <h1>Compositores Principales</h1> <br>
                         <li>
                             Wolfgang Amadeus Mozart, Joseph Haydn, y Ludwig van Beethoven en sus primeras obras.
                         </li> 
-                        <img src="https://s3-eu-west-1.amazonaws.com/infogram-particles-700/orgutierrez_1370181940.jpg" alt="">
+                        <img class="fotoman" src="https://s3-eu-west-1.amazonaws.com/infogram-particles-700/orgutierrez_1370181940.jpg" alt="">
                     </div>
                     <div class="rectangulos9">
                         <h1>Formas Musicales</h1> 
-                        <img src="https://www.socialhizo.com/images/entretenimiento/musica/musica_instrumental.jpg" alt="">
-                        <img src="https://www.escapemusical.com/wp-content/uploads/2023/09/una_breve_historia_de_la_musica_clasicismo_orquestra.webp" alt="">
+                        <img class="fotoman" src="https://www.socialhizo.com/images/entretenimiento/musica/musica_instrumental.jpg" alt="">
+                        <img class="fotoman" src="https://www.escapemusical.com/wp-content/uploads/2023/09/una_breve_historia_de_la_musica_clasicismo_orquestra.webp" alt="">
                     </div>
                 </div>
             </section>
