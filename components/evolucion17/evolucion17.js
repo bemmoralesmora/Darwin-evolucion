@@ -22,7 +22,7 @@ DOM_evolucion17.innerHTML = `
     <section class="bloque2">
         <div class="bloque-contenido1">
             <h1 class="titulo-cont1-2024">MOVIES</h1>
-            <div class="cont1-img"><img src="https://wallpapers-clan.com/wp-content/uploads/2023/10/star-wars-darth-vader-with-lightsaber-dark-desktop-wallpaper-preview.jpg" alt=""></div>
+            <div class="cont1-img"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1b06QdWe71Jl24gOYrE6FBm_reWHNewjuQA&s" alt=""></div>
             <p class="parrafo-cont1">Star Wars (conocida también en español como La guerra de las galaxias) es una franquicia compuesta primordialmente de una serie de películas concebidas por el cineasta estadounidense George Lucas en la década de 1970, y producidas y distribuidas por The Walt Disney Company a partir de 2012.</p>
         </div>
         <div class="bloque-contenido2">
@@ -94,7 +94,7 @@ DOM_evolucion17.innerHTML = `
 
             <div class="contenidos1-bloque2">
             <h1 class="titulo-cont2-2024">MOVIES</h1>
-            <div class="cont2-img-1"><img src="https://img.asmedia.epimg.net/resizer/v2/YF56LVNH25HI3BFPEKA5KLBG7A.jpg?auth=b68b08b435cb8d15279865a3837406222077dcf38e7201abe89c7b1f3fd11c6e&width=1472&height=1104&smart=true" alt=""></div>
+            <div class="cont2-img-1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBUZFMETrzSzzaSGEVuROXBzr582tXHfDUg&s" alt=""></div>
             <p class="parrafo-cont2-1">La proliferación de plataformas de streaming como Netflix, Amazon Prime Video y Disney+ ha cambiado la forma en que se consume el cine, proporcionando acceso instantáneo a una amplia gama de películas y series desde cualquier dispositivo con conexión a internet.</p>
             </div>
 
@@ -106,7 +106,7 @@ DOM_evolucion17.innerHTML = `
 
             <div class="contenidos3-bloque2">
             <h1 class="titulo-cont2-2024">MOVIES</h1>
-            <div class="cont2-img"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+            <div class="cont2-img"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJdJq6wpvgvjXoLzMyEYmLqbV2Tws4SB9bw&s" alt=""></div>
             <p class="parrafo-cont2-1">La digitalización revoluciona el cine a finales del siglo XX, transformando la forma en que se produce, distribuye y experimenta el séptimo arte.</p>
             </div>
         </div>
@@ -448,7 +448,7 @@ section1.addEventListener("click",()=>{
     btnc1.innerHTML=`
     <div class="bloque-contenido1">
         <h1 class="titulo-cont1-2024">Lumières</h1>
-        <div class="cont1-img"><img src="https://www.canal12misiones.com/wp-content/uploads/2023/12/lumiere.jpg" alt=""></div>
+        <div class="cont1-img"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nE8hnPtu3Lu14tFuf5DF25BRndpKtpDJGw&s" alt=""></div>
         <p class="parrafo-cont1"> organizaron la primera proyección pública de películas utilizando su invento, el cinematógrafo, el 28 de diciembre de 1895</p>
     </div>
     <div class="bloque-contenido2">
@@ -520,7 +520,7 @@ section1.addEventListener("click",()=>{
 
         <div class="contenidos1-bloque2">
         <h1 class="titulo-cont2-2024">MOVIES</h1>
-        <div class="cont2-img-1"><img src="https://elordenmundial.com/wp-content/uploads/2021/12/Los-hermanos-Lumiere-ofrecen-la-primera-exhibicion-publica-de-su-cinematografo.jpg" alt=""></div>
+        <div class="cont2-img-1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLsA6xcucK8BSfBomfaLUDlnDegyfNGMCyg&s" alt=""></div>
         <p class="parrafo-cont2-1">El 28 de diciembre de 1895, los hermanos Lumière organizaron la primera proyección pública de películas utilizando su invento, el cinematógrafo, en el Salon Indien du Grand Café en París.</p>
         </div>
 
@@ -953,7 +953,7 @@ section6.addEventListener("click",()=>{
     btnc6.innerHTML=`
     <div class="bloque-contenido1">
         <h1 class="titulo-cont1-2024">MOVIES</h1>
-        <div class="cont1-img"><img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/12/23/13/original1.jpg" alt=""></div>
+        <div class="cont1-img"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzuaRLzg68eOnE9OVkVkIw8_fn33Nh0IbMQ&s" alt=""></div>
         <p class="parrafo-cont1">Dirigida por George Lucas, esta película fue pionera en el uso de efectos especiales avanzados y se convirtió en un fenómeno cultural global.</p>
     </div>
     <div class="bloque-contenido2">
@@ -1025,19 +1025,19 @@ section6.addEventListener("click",()=>{
 
         <div class="contenidos1-bloque2">
         <h1 class="titulo-cont2-2024">MOVIES</h1>
-        <div class="cont2-img-1"><img src="https://image.tmdb.org/t/p/original/wmkOjTEFm2GxyX8Owvu9ZAwIXUy.jpg" alt=""></div>
+        <div class="cont2-img-1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz23f6xzhM5t_eWTHsysWrHIvOW3mphSK_gQ&s" alt=""></div>
         <p class="parrafo-cont2-1"> Dirigida por Steven Spielberg, esta película de ciencia ficción destacó por su impresionante trabajo con efectos especiales y su enfoque en el contacto con extraterrestres.</p>
         </div>
 
         <div class="contenidos2-bloque2">
         <h1 class="titulo-cont2-2024">MOVIES</h1>
-        <div class="cont2-img-2"><img src="https://es.web.img3.acsta.net/pictures/14/03/06/13/55/345785.jpg" alt=""></div>
+        <div class="cont2-img-2"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcgfaHcBMVgHIKI5dn0uZY4c2lltVIxptog&s" alt=""></div>
         <p class="parrafo-cont2-1">Dirigida por Richard Donner, esta película marcó el inicio de las grandes superproducciones de superhéroes, con efectos visuales innovadores y una interpretación icónica de Christopher Reeve.</p>
         </div>
 
         <div class="contenidos3-bloque2">
         <h1 class="titulo-cont2-2024">MOVIES</h1>
-        <div class="cont2-img"><img src="https://www.ecartelera.com/carteles/4500/4583/001_m.jpg" alt=""></div>
+        <div class="cont2-img"><img src="https://i.ytimg.com/vi/rqTjkKHh7xM/maxresdefault.jpg" alt=""></div>
         <p class="parrafo-cont2-1">ambién dirigida por Steven Spielberg, "Tiburón" es considerada una de las primeras superproducciones de verano, combinando efectos especiales prácticos con una narrativa de alto suspense.</p>
         </div>
     </div>
@@ -1378,7 +1378,7 @@ inicio2.addEventListener("click",()=>{
     btncInicio.innerHTML=`
     <div class="bloque-contenido1">
         <h1 class="titulo-cont1-2024">MOVIES</h1>
-        <div class="cont1-img"><img src="https://wallpapers-clan.com/wp-content/uploads/2023/10/star-wars-darth-vader-with-lightsaber-dark-desktop-wallpaper-preview.jpg" alt=""></div>
+        <div class="cont1-img"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1b06QdWe71Jl24gOYrE6FBm_reWHNewjuQA&s" alt=""></div>
         <p class="parrafo-cont1">Star Wars (conocida también en español como La guerra de las galaxias) es una franquicia compuesta primordialmente de una serie de películas concebidas por el cineasta estadounidense George Lucas en la década de 1970, y producidas y distribuidas por The Walt Disney Company a partir de 2012.</p>
     </div>
     <div class="bloque-contenido2">
@@ -1450,7 +1450,7 @@ inicio2.addEventListener("click",()=>{
 
         <div class="contenidos1-bloque2">
         <h1 class="titulo-cont2-2024">MOVIES</h1>
-        <div class="cont2-img-1"><img src="https://img.asmedia.epimg.net/resizer/v2/YF56LVNH25HI3BFPEKA5KLBG7A.jpg?auth=b68b08b435cb8d15279865a3837406222077dcf38e7201abe89c7b1f3fd11c6e&width=1472&height=1104&smart=true" alt=""></div>
+        <div class="cont2-img-1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBUZFMETrzSzzaSGEVuROXBzr582tXHfDUg&s" alt=""></div>
         <p class="parrafo-cont2-1">La proliferación de plataformas de streaming como Netflix, Amazon Prime Video y Disney+ ha cambiado la forma en que se consume el cine, proporcionando acceso instantáneo a una amplia gama de películas y series desde cualquier dispositivo con conexión a internet.</p>
         </div>
 
@@ -1462,7 +1462,7 @@ inicio2.addEventListener("click",()=>{
 
         <div class="contenidos3-bloque2">
         <h1 class="titulo-cont2-2024">MOVIES</h1>
-        <div class="cont2-img"><img src="https://www.latercera.com/resizer/1Zun5k55lBAxADNSYxG0WwmjPpI=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/JM7UA4FMFRBVTHX2SIQARPUBFU.jpg" alt=""></div>
+        <div class="cont2-img"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJdJq6wpvgvjXoLzMyEYmLqbV2Tws4SB9bw&s" alt=""></div>
         <p class="parrafo-cont2-1">La digitalización revoluciona el cine a finales del siglo XX, transformando la forma en que se produce, distribuye y experimenta el séptimo arte.</p>
         </div>
     </div>
